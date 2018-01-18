@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger.Demo", "Swagger.Demo\Swagger.Demo.csproj", "{EEF45AD0-1CC2-4E33-804D-EF773CB172E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Swagger.Dto", "Swagger.Dto\Swagger.Dto.csproj", "{C33A0B1B-B741-417B-89B0-5D1030922494}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEF45AD0-1CC2-4E33-804D-EF773CB172E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EEF45AD0-1CC2-4E33-804D-EF773CB172E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EEF45AD0-1CC2-4E33-804D-EF773CB172E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EEF45AD0-1CC2-4E33-804D-EF773CB172E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C33A0B1B-B741-417B-89B0-5D1030922494}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C33A0B1B-B741-417B-89B0-5D1030922494}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C33A0B1B-B741-417B-89B0-5D1030922494}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C33A0B1B-B741-417B-89B0-5D1030922494}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {50017279-4223-4974-8003-E328D41EC9F9}
+	EndGlobalSection
+EndGlobal
